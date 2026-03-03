@@ -119,7 +119,8 @@ python phantom.py setkey urlscan_key        YOUR_KEY
 ```
 phantom/
 ├── phantom.py      # Everything in a single file
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
