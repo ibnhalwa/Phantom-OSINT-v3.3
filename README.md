@@ -141,6 +141,12 @@ phantom/
 
 ---
 
+## Preview
+
+<img width="1751" height="977" alt="image" src="https://github.com/user-attachments/assets/49cca2da-ca00-41c1-8252-707bbd790912" />
+
+---
+
 ## Disclaimer
 
 Phantom is provided **as-is** for educational purposes only. The author takes no responsibility for any illegal or malicious use of this tool. Use it responsibly, ethically, and within the bounds of the law.
