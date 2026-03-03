@@ -55,6 +55,7 @@ by [Ibnhalwa](https://github.com/Ibnhalwa) · [Discord](https://discord.gg/9EHyx
 ```bash
 git clone https://github.com/Ibnhalwa/phantom.git
 cd phantom
+pip install -r requirements.txt
 python phantom.py
 ```
 
